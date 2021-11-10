@@ -14,4 +14,8 @@ This is to show the use of the;<br>
 <p class="has-line-data" data-line-start="15" data-line-end="23">Snippet was implemented using golang with;<br>
 -The net/http web library with;<br>
 -[Pat] <a href="http://github.com/bmizerany/pat">github.com/bmizerany/pat</a> Routing<br>
--[mysql driver] <a href="http://github.com/go-sql-driver/mysql">github.com/go-sql-driver/mysql</
+-[mysql driver] <a href="http://github.com/go-sql-driver/mysql">github.com/go-sql-driver/mysql</a> as Database driver<br>
+-[sessions] <a href="http://github.com/golangcollege/sessions">github.com/golangcollege/sessions</a> Session management<br>
+-[alice] <a href="http://github.com/justinas/alice">github.com/justinas/alice</a> Middleware management<br>
+-[nosurf]<a href="http://github.com/justinas/nosurf">github.com/justinas/nosurf</a> CSRF Token Management<br>
+-[crypto] <a href="http://golang.org/x/crypto">golang.org/x/crypto</a> TLS</p>
