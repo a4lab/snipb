@@ -19,3 +19,5 @@ This is to show the use of the;<br>
 -[alice] <a href="http://github.com/justinas/alice">github.com/justinas/alice</a> Middleware management<br>
 -[nosurf]<a href="http://github.com/justinas/nosurf">github.com/justinas/nosurf</a> CSRF Token Management<br>
 -[crypto] <a href="http://golang.org/x/crypto">golang.org/x/crypto</a> TLS</p>
+
+- <a href="https://lets-go.alexedwards.net/">[alex Edwards book]</a> </p>
