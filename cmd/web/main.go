@@ -47,7 +47,7 @@ var contextKeyUser = contextKey("user")
 
 func main() {
 	addr := flag.String("addr", ":8080", "Http address from the command option")
-	dsn := flag.String("dsn", "web:titanium22@/Snippetbox?parseTime=true", "Mysql DataSource")
+	dsn := flag.String("dsn", "web:PASSHERE@/Snippetbox?parseTime=true", "Mysql DataSource")
 	flag.Parse()
 
 	infoLog := log.New(os.Stdout, "[INFO]\t", log.Ldate|log.Ltime)
